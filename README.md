@@ -1,5 +1,5 @@
 # Introduccion a Cloud Foundry en IBM Cloud
-Esta aplicación muestra hecha en Node.js nos muestra el flujo para trabajar con cualquier aplicación Node.js en IBM Cloud
+Esta aplicación muestra hecha en Node.js nos muestra el flujo para trabajar con cualquier aplicación Node.js en IBM Cloud.
 
 La app de Node.js utiliza el [Framework Express](https://expressjs.com) y el servicio de [Cloudant noSQL DB](https://console.bluemix.net/catalog/services/cloudant-nosql-db) Para agregar datos y luego devolverlos a la UI. Para mas información revisa la [libreria de Cloudant para Node.js](https://www.npmjs.com/package/cloudant).
 
