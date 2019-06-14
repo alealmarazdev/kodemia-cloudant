@@ -1,0 +1,6 @@
+---
+applications:
+ - name: kca1-sidney
+   random-route: false
+   memory: 128M
+
