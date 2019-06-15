@@ -10,6 +10,6 @@ tener pleno control de tu [SO](https://www.linuxadictos.com/razones-las-usar-lin
 
 ## Instructions
 
-Esta aplicación es una adaptación de la aplicación tutorial 'getstartednode' para ser explicada en [KODEMIA](https://kodemia.mx/) como introducción a la plataforma de IBM Cloud. 
+Esta aplicación es una adaptación de la aplicación tutorial 'getstartednode' para ser explicada en [KODEMIA](https://kodemia.mx/) como introducción a la plataforma de IBM Cloud. Usando git ibmmcloud. 
 
 
